@@ -1,8 +1,8 @@
-// Import BigDecimal for precision handling
+
 import scala.math.BigDecimal
 
 object TheaterProfitCalculator {
-  // Constants
+
   val initialPrice: Double = 15.0
   val initialAttendance: Int = 120
   val priceChange: Double = 5.0
@@ -10,13 +10,11 @@ object TheaterProfitCalculator {
   val fixedCost: Double = 500.0
   val variableCostPerAttendee: Double = 3.0
 
-  // Function to calculate attendance based on ticket price
   def calculateAttendance(price: Double): Int = {
-    // Calculate attendance using a linear interpolation model
+
     initialAttendance + ((initialPrice - price) / priceChange * attendanceChange).toInt
   }
 
-  // Function to calculate profit based on ticket price
   def calculateProfit(price: Double): Double = {
     val attendance = calculateAttendance(price)
     val revenue = price * attendance
@@ -25,9 +23,8 @@ object TheaterProfitCalculator {
     profit
   }
 
-  // Function to find the best ticket price for maximum profit
   def findBestTicketPrice(startPrice: Double, endPrice: Double, step: Double): (Double, Double) = {
-    // Use BigDecimal for precision and convert back to Double for simplicity
+
     val prices = BigDecimal(startPrice) to BigDecimal(endPrice) by BigDecimal(step)
     val profits = prices.map(_.toDouble).map(price => (price, calculateProfit(price)))
     profits.maxBy(_._2)

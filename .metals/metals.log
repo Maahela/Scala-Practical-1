@@ -8219,3 +8219,170 @@ scala.meta.tokenizers.TokenizeException: <input>:19: error: unclosed string inte
 2024.06.25 05:53:43 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.06.25 05:53:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.06.25 05:53:55 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 05:56:59 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:15 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:15 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:15 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:15 WARN  Could not find semantic tokens for: file:///C:/Users/Maahela/Documents/UCSC/Labsheets/Scala/.vscode/Practical%202/question4.scala
+2024.06.25 06:02:31 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:31 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:31 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:34 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 06:02:34 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:02:37 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:03:50 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:03:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:03:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:03:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:00 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:00 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:00 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:00 WARN  Could not find semantic tokens for: file:///C:/Users/Maahela/Documents/UCSC/Labsheets/Scala/.vscode/Practical%202/question4.scala
+2024.06.25 06:04:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:04:45 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 06:04:45 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:47 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:47 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:53 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:53 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:53 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:53 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:55 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:06:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:42 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 WARN  Could not find semantic tokens for: file:///C:/Users/Maahela/Documents/UCSC/Labsheets/Scala/.vscode/Practical%202/question4.scala
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:44 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:07:48 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 06:07:48 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:08:06 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 06:10:02 INFO  Shutting down server
+2024.06.25 06:10:02 INFO  shutting down Metals
+2024.06.25 06:10:02 INFO  Shut down connection with build server.
+2024.06.25 06:10:02 INFO  Exiting server
+2024.06.25 09:29:01 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\Maahela\Documents\UCSC\Labsheets\Scala' for client Visual Studio Code 1.90.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2c429c5e]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@9556cbb]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2c429c5e]
+2024.06.25 09:29:01 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.25 09:29:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 25, 2024 9:29:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jun 25, 2024 9:29:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2024.06.25 09:29:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:03 INFO  Attempting to connect to the build server...
+2024.06.25 09:29:03 INFO  Running BSP server List(C:\Users\Maahela\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.scala-build\ide-envs.json, C:\Users\Maahela\Documents\UCSC\Labsheets\Scala)
+2024.06.25 09:29:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.metals\bsp.trace.json or C:\Users\Maahela\AppData\Local\scalameta\metals\cache\bsp.trace.json
+Jun 25, 2024 9:29:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.06.25 09:29:05 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:05 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:05 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:05 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:05 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:07 INFO  BSP server: Starting compilation server
+2024.06.25 09:29:10 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:11 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:17 INFO  time: Connected to build server in 13s
+2024.06.25 09:29:17 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.25 09:29:17 INFO  time: Imported build in 0.13s
+2024.06.25 09:29:19 INFO  time: indexed workspace in 2.26s
+2024.06.25 09:29:19 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 09:29:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:22 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:22 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:24 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:24 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:25 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:25 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:29:28 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:47 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:47 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:48 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:50 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:53 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:30:55 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 25, 2024 9:32:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 86
+2024.06.25 09:32:54 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 09:32:54 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:54 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:32:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:00 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:01 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:02 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:04 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:04 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:04 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:04 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:09 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:09 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:09 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:15 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:19 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:33:23 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:34:45 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:34:48 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala
+2024.06.25 09:34:48 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:34:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:35:02 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:35:33 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:35:35 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:35:41 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:38:48 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:38:48 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:39:38 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:39:38 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:39:40 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:42:10 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:42:11 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:44:58 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 25, 2024 9:45:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 345
+2024.06.25 09:46:07 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:50 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:50 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:50 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:50 WARN  Could not find semantic tokens for: file:///C:/Users/Maahela/Documents/UCSC/Labsheets/Scala/.vscode/Practical%202/question.scala
+2024.06.25 09:46:51 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:46:52 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:47:11 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:47:14 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala
+2024.06.25 09:47:14 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:47:24 WARN  no build target for: C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala
+2024.06.25 09:47:24 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:48:18 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:48:18 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:52:03 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:52:06 INFO  no build target found for C:\Users\Maahela\Documents\UCSC\Labsheets\Scala\.vscode\Practical 2\question1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 09:54:18 INFO  Shutting down server
+2024.06.25 09:54:18 INFO  shutting down Metals
+2024.06.25 09:54:18 INFO  Shut down connection with build server.
+2024.06.25 09:54:18 INFO  Exiting server
